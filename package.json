@@ -1,0 +1,19 @@
+{
+  "name": "montre-analogue-master",
+  "version": "1.0.0",
+  "description": "Dans ce projet, vous allez utiliser ce que vous avez appris et le mettre en pratique dans une démo, en utilisant JavaScript et CSS pour créer une `horloge analogique` fonctionnelle.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-minify": "^3.1.0"
+  },
+  "dependencies": {
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-minify-css": "^1.2.4"
+  }
+}
